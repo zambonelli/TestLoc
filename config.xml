@@ -1,0 +1,12 @@
+<widget id="VFFK7Q5YVT.it.unimore.agentlab.app1" version="0.0.1">
+    <name>LocTest</name>
+    <description>
+        A simple localization test.
+    </description>
+    <author email="marco.mamei@unimore.it" href="http://phonegap.com">
+        Marco Mamei
+    </author>
+    <content src="index.html" />
+    <icon src="images/world.png" />
+    <access origin="*" />
+</widget>
